@@ -57,11 +57,11 @@ Paid Asana Business — **free in our launcher**, paid on the official site.
 
 ## Screenshots
 
-![Asana](preview.png)
+<p align="center"><img src="preview.png" alt="Asana" width="420"></p>
 
 Aivora launcher hub — **Office and cloud** → **Asana**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
